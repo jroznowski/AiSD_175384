@@ -10,7 +10,7 @@ namespace sorting
     {
         NodeT root;
 
-        public void InsertNode(NodeT node)
+        public void AddNode(NodeT node)
         {
             if (this.root == null)
             {
@@ -18,11 +18,11 @@ namespace sorting
             }
             else
             {
-                Insert(this.root, node);
+                Add(this.root, node);
             }
         }
 
-        public void Insert(NodeT root, NodeT node)
+        public void Add(NodeT root, NodeT node)
         {
             if (node.data < root.data)
             {
@@ -32,11 +32,11 @@ namespace sorting
                 }
                 else
                 {
-                    Insert(root.lewe, node);
+                    Add(root.lewe, node);
                 }
 
             }
-            else if (node.data > root.data)
+            else
             {
                 if (root.prawe == null)
                 {
@@ -44,10 +44,15 @@ namespace sorting
                 }
                 else
                 {
-                    Insert(root.prawe, node);
+                    Add(root.prawe, node);
                 }
             }
         }
+
+        /*public void Remove(NodeT node)
+        {
+
+        }*/
 
         public void InOrder(NodeT root)
         {
@@ -61,18 +66,18 @@ namespace sorting
                 InOrder(root.prawe);
             }
         }
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             Tree drzewo = new Tree();
-            drzewo.InsertNode(new NodeT(4));
-            drzewo.InsertNode(new NodeT(2));
-            drzewo.InsertNode(new NodeT(1));
-            drzewo.InsertNode(new NodeT(6));
-            drzewo.InsertNode(new NodeT(3));
-            drzewo.InsertNode(new NodeT(7));
-            drzewo.InsertNode(new NodeT(5));
+            drzewo.AddNode(new NodeT(4));
+            drzewo.AddNode(new NodeT(2));
+            drzewo.AddNode(new NodeT(1));
+            drzewo.AddNode(new NodeT(6));
+            drzewo.AddNode(new NodeT(3));
+            drzewo.AddNode(new NodeT(7));
+            drzewo.AddNode(new NodeT(5));
             drzewo.InOrder(drzewo.root);
-        }
+        }*/
     }
 }
 
