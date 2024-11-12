@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\po\\AiSD_175384\\lab4\\sorting\\",
+  "WorkspaceRootPath": "E:\\AiSD_175384\\lab4\\sorting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\lab4\\sorting\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|e:\\aisd_175384\\lab4\\sorting\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\lab4\\sorting\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|e:\\aisd_175384\\lab4\\sorting\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\lab4\\sorting\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|e:\\aisd_175384\\lab4\\sorting\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Tree.cs",
-              "DocumentMoniker": "D:\\po\\AiSD_175384\\lab4\\sorting\\Tree.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\lab4\\sorting\\Tree.cs",
               "RelativeDocumentMoniker": "Tree.cs",
-              "ToolTip": "D:\\po\\AiSD_175384\\lab4\\sorting\\Tree.cs",
+              "ToolTip": "E:\\AiSD_175384\\lab4\\sorting\\Tree.cs",
               "RelativeToolTip": "Tree.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAIwGkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T18:17:09.156Z",
               "IsPinned": true,
@@ -42,30 +42,27 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NodeT.cs",
-              "DocumentMoniker": "D:\\po\\AiSD_175384\\lab4\\sorting\\NodeT.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\lab4\\sorting\\NodeT.cs",
               "RelativeDocumentMoniker": "NodeT.cs",
-              "ToolTip": "D:\\po\\AiSD_175384\\lab4\\sorting\\NodeT.cs",
+              "ToolTip": "E:\\AiSD_175384\\lab4\\sorting\\NodeT.cs",
               "RelativeToolTip": "NodeT.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T18:13:18.091Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Lista.cs",
-              "DocumentMoniker": "D:\\po\\AiSD_175384\\lab4\\sorting\\Lista.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\lab4\\sorting\\Lista.cs",
               "RelativeDocumentMoniker": "Lista.cs",
-              "ToolTip": "D:\\po\\AiSD_175384\\lab4\\sorting\\Lista.cs",
+              "ToolTip": "E:\\AiSD_175384\\lab4\\sorting\\Lista.cs",
               "RelativeToolTip": "Lista.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T18:20:21.614Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
