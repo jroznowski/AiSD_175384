@@ -9,7 +9,7 @@ namespace sorting
 {
     internal class Tree
     {
-        NodeT root;
+        NodeT? root;
 
         public void AddNode(NodeT node)
         {
@@ -52,24 +52,25 @@ namespace sorting
 
         public NodeT Remove(NodeT node, int key)
         {
-            if(node == null)
+            if (node == null)
             {
                 return node;
             }
-            if(key > node.data)
+            if (key > node.data)
             {
                 node.prawe = this.Remove(node.prawe, key);
             }
-            else if(key < node.data){
+            else if (key < node.data)
+            {
                 node.lewe = this.Remove(node.lewe, key);
             }
             else
             {
-                if(node.lewe == null)
+                if (node.lewe == null)
                 {
                     return node.prawe;
                 }
-                else if(node.prawe == null)
+                else if (node.prawe == null)
                 {
                     return node.lewe;
                 }
@@ -85,6 +86,7 @@ namespace sorting
             return node;
 
         }
+
 
         public void InOrder(NodeT root)
         {

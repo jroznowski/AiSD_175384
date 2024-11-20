@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\po\\AiSD_175384\\Projekty\\sorting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\projekty\\sorting\\nodeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:nodeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\projekty\\sorting\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\projekty\\sorting\\nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:nodet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\projekty\\sorting\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NodeT.cs",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\sorting\\NodeT.cs",
+              "RelativeDocumentMoniker": "NodeT.cs",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\sorting\\NodeT.cs",
+              "RelativeToolTip": "NodeT.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:13:18.091Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NodeG.cs",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\sorting\\NodeG.cs",
+              "RelativeDocumentMoniker": "NodeG.cs",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\sorting\\NodeG.cs",
+              "RelativeToolTip": "NodeG.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T08:17:41.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Tree.cs",
+              "RelativeDocumentMoniker": "Tree.cs",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Tree.cs",
+              "RelativeToolTip": "Tree.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:17:09.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Lista.cs",
+              "RelativeDocumentMoniker": "Lista.cs",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Lista.cs",
+              "RelativeToolTip": "Lista.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:20:21.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
