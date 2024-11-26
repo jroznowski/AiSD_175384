@@ -1,0 +1,14 @@
+D:\po\AiSD nauka\SortingConsole\bin\Debug\net6.0\SortingConsole.exe
+D:\po\AiSD nauka\SortingConsole\bin\Debug\net6.0\SortingConsole.deps.json
+D:\po\AiSD nauka\SortingConsole\bin\Debug\net6.0\SortingConsole.runtimeconfig.json
+D:\po\AiSD nauka\SortingConsole\bin\Debug\net6.0\SortingConsole.dll
+D:\po\AiSD nauka\SortingConsole\bin\Debug\net6.0\SortingConsole.pdb
+D:\po\AiSD nauka\SortingConsole\obj\Debug\net6.0\SortingConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\po\AiSD nauka\SortingConsole\obj\Debug\net6.0\SortingConsole.AssemblyInfoInputs.cache
+D:\po\AiSD nauka\SortingConsole\obj\Debug\net6.0\SortingConsole.AssemblyInfo.cs
+D:\po\AiSD nauka\SortingConsole\obj\Debug\net6.0\SortingConsole.csproj.CoreCompileInputs.cache
+D:\po\AiSD nauka\SortingConsole\obj\Debug\net6.0\SortingConsole.dll
+D:\po\AiSD nauka\SortingConsole\obj\Debug\net6.0\refint\SortingConsole.dll
+D:\po\AiSD nauka\SortingConsole\obj\Debug\net6.0\SortingConsole.pdb
+D:\po\AiSD nauka\SortingConsole\obj\Debug\net6.0\SortingConsole.genruntimeconfig.cache
+D:\po\AiSD nauka\SortingConsole\obj\Debug\net6.0\ref\SortingConsole.dll
