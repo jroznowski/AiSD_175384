@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace sorting
 {
-    internal class NodeG
+    public class NodeG
     {
-        List<NodeG> sasiedzi = new List<NodeG>();
-        int data;
-        NodeG(int liczba)
+        public List<NodeG> sasiedzi = new List<NodeG>();
+        public int data;
+        public NodeG(int liczba)
         {
             this.data = liczba;
         }
@@ -27,17 +27,6 @@ namespace sorting
                 this.sasiedzi.Add(dane);
             }
         }
-        
-        public void move_wszerz()
-        {
-            List<NodeG> odwiedzone = new List<NodeG>();
-            for(int i = 0; i < this.sasiedzi.Count; i++)
-            {
-                if (!odwiedzone.Contains(this.sasiedzi.ElementAt(i))){
-                    Console.WriteLine(this.sasiedzi.ElementAt(i));
-                    odwiedzone.Add(this.sasiedzi.ElementAt(i));
-                }
-            }
-        } 
+       
     }
 }
