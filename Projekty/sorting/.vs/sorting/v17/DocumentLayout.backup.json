@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -47,6 +47,10 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Graf.cs",
@@ -54,7 +58,7 @@
               "RelativeDocumentMoniker": "Graf.cs",
               "ToolTip": "E:\\AiSD_175384\\Projekty\\sorting\\Graf.cs",
               "RelativeToolTip": "Graf.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAArwEoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwDAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-26T20:42:13.77Z",
               "IsPinned": true,
@@ -87,7 +91,23 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 1,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Tree.cs",
+              "RelativeDocumentMoniker": "Tree.cs",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Tree.cs",
+              "RelativeToolTip": "Tree.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:17:09.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+>>>>>>> Stashed changes
               "Title": "Lista.cs",
               "DocumentMoniker": "E:\\AiSD_175384\\Projekty\\sorting\\Lista.cs",
               "RelativeDocumentMoniker": "Lista.cs",

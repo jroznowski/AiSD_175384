@@ -37,23 +37,23 @@ namespace sorting
         public void wrzesz(NodeG start)
         {
             List<NodeG> wizyty = new List<NodeG> { start };
-            List<NodeG> odwiedzone = new List<NodeG> { start };
+            List<NodeG> pozostale = new List<NodeG> { start };
 
-            while (odwiedzone.Count > 0)
+            while (pozostale.Count > 0)
             {
-                NodeG aktualny = odwiedzone[0];
-                odwiedzone.RemoveAt(0);
+                NodeG aktualny = pozostale[0];
+                pozostale.RemoveAt(0);
 
                 if (!wizyty.Contains(aktualny))
                 {
                     wizyty.Add(aktualny);
                     Console.WriteLine(aktualny);
 
-                    foreach (var sasiad in aktualny.sasiedzi)
+                    foreach (NodeG sasiad in aktualny.sasiedzi)
                     {
                         if (!wizyty.Contains(sasiad))
                         {
-                            odwiedzone.Add(sasiad);
+                            pozostale.Add(sasiad);
                         }
                     }
                 }
