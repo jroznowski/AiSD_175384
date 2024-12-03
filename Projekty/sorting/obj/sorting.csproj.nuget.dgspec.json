@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\po\\AiSD_175384\\Projekty\\sorting\\sorting.csproj": {}
+    "E:\\AiSD_175384\\Projekty\\sorting\\sorting.csproj": {}
   },
   "projects": {
-    "D:\\po\\AiSD_175384\\Projekty\\sorting\\sorting.csproj": {
+    "E:\\AiSD_175384\\Projekty\\sorting\\sorting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\po\\AiSD_175384\\Projekty\\sorting\\sorting.csproj",
+        "projectUniqueName": "E:\\AiSD_175384\\Projekty\\sorting\\sorting.csproj",
         "projectName": "sorting",
-        "projectPath": "D:\\po\\AiSD_175384\\Projekty\\sorting\\sorting.csproj",
-        "packagesPath": "C:\\Users\\Jakub\\.nuget\\packages\\",
-        "outputPath": "D:\\po\\AiSD_175384\\Projekty\\sorting\\obj\\",
+        "projectPath": "E:\\AiSD_175384\\Projekty\\sorting\\sorting.csproj",
+        "packagesPath": "C:\\Users\\realp\\.nuget\\packages\\",
+        "outputPath": "E:\\AiSD_175384\\Projekty\\sorting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\realp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,6 +55,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.33, 6.0.33]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -63,7 +81,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

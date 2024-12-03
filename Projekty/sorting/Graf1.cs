@@ -43,6 +43,33 @@ namespace sorting
                 this.Add(g1.edges[i]);
             }
         }
+
+        public List<Edge> Kruskal() { 
+            List<Edge> MST = new List<Edge>();
+            edges.Sort((a, b) => a.weight.CompareTo(b.weight)); 
+            int[] parent = new int[nodes.Count]; 
+            for (int i = 0; i < nodes.Count; i++) { 
+                parent[i] = i; 
+            } 
+            int Find(int i) { 
+                if (parent[i] == i) return i; 
+                return parent[i] = Find(parent[i]); 
+            } 
+            void Union(int i, int j) { 
+                int ri = Find(i); 
+                int rj = Find(j); 
+                if (ri != rj) parent[ri] = rj; 
+            } 
+            foreach (Edge edge in edges) { 
+                int startIdx = nodes.IndexOf(edge.start); 
+                int endIdx = nodes.IndexOf(edge.end); 
+                if (Find(startIdx) != Find(endIdx)) { 
+                    MST.Add(edge); 
+                    Union(startIdx, endIdx); 
+                } 
+            } 
+            return MST; 
+        }
     }
 
 
