@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\AiSD_175384\\Projekty\\sorting\\",
+  "WorkspaceRootPath": "D:\\po\\AiSD_175384\\Projekty\\sorting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|e:\\aisd_175384\\projekty\\sorting\\graf1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\projekty\\sorting\\graf1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:graf1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|e:\\aisd_175384\\projekty\\sorting\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|e:\\aisd_175384\\projekty\\sorting\\nodeg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\projekty\\sorting\\nodeg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:nodeg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|e:\\aisd_175384\\projekty\\sorting\\graf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\projekty\\sorting\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\projekty\\sorting\\graf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:graf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|e:\\aisd_175384\\projekty\\sorting\\nodeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\projekty\\sorting\\nodeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:nodeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|e:\\aisd_175384\\projekty\\sorting\\sorting.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\projekty\\sorting\\sorting.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:sorting.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|e:\\aisd_175384\\projekty\\sorting\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|d:\\po\\aisd_175384\\projekty\\sorting\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38285380-0A23-4F9B-A8FD-765C3E3E4AB3}|sorting.csproj|solutionrelative:lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Graf.cs",
-              "DocumentMoniker": "E:\\AiSD_175384\\Projekty\\sorting\\Graf.cs",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Graf.cs",
               "RelativeDocumentMoniker": "Graf.cs",
-              "ToolTip": "E:\\AiSD_175384\\Projekty\\sorting\\Graf.cs",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Graf.cs",
               "RelativeToolTip": "Graf.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowDYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,24 +57,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Graf1.cs",
-              "DocumentMoniker": "E:\\AiSD_175384\\Projekty\\sorting\\Graf1.cs",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Graf1.cs",
               "RelativeDocumentMoniker": "Graf1.cs",
-              "ToolTip": "E:\\AiSD_175384\\Projekty\\sorting\\Graf1.cs",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Graf1.cs",
               "RelativeToolTip": "Graf1.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwEQAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T07:50:41.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Edge.cs",
-              "DocumentMoniker": "E:\\AiSD_175384\\Projekty\\sorting\\Edge.cs",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Edge.cs",
               "RelativeDocumentMoniker": "Edge.cs",
-              "ToolTip": "E:\\AiSD_175384\\Projekty\\sorting\\Edge.cs",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Edge.cs",
               "RelativeToolTip": "Edge.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T07:50:00.753Z",
               "EditorCaption": ""
@@ -83,9 +83,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "sorting",
-              "DocumentMoniker": "E:\\AiSD_175384\\Projekty\\sorting\\sorting.csproj",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\sorting\\sorting.csproj",
               "RelativeDocumentMoniker": "sorting.csproj",
-              "ToolTip": "E:\\AiSD_175384\\Projekty\\sorting\\sorting.csproj",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\sorting\\sorting.csproj",
               "RelativeToolTip": "sorting.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-26T21:09:33.281Z"
@@ -94,9 +94,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "NodeG.cs",
-              "DocumentMoniker": "E:\\AiSD_175384\\Projekty\\sorting\\NodeG.cs",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\sorting\\NodeG.cs",
               "RelativeDocumentMoniker": "NodeG.cs",
-              "ToolTip": "E:\\AiSD_175384\\Projekty\\sorting\\NodeG.cs",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\sorting\\NodeG.cs",
               "RelativeToolTip": "NodeG.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,11 +104,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "NodeG1.cs",
-              "DocumentMoniker": "E:\\AiSD_175384\\Projekty\\sorting\\NodeG1.cs",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\sorting\\NodeG1.cs",
               "RelativeDocumentMoniker": "NodeG1.cs",
-              "ToolTip": "E:\\AiSD_175384\\Projekty\\sorting\\NodeG1.cs",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\sorting\\NodeG1.cs",
               "RelativeToolTip": "NodeG1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,13 +119,17 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Lista.cs",
-              "DocumentMoniker": "E:\\AiSD_175384\\Projekty\\sorting\\Lista.cs",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Lista.cs",
               "RelativeDocumentMoniker": "Lista.cs",
-              "ToolTip": "E:\\AiSD_175384\\Projekty\\sorting\\Lista.cs",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\sorting\\Lista.cs",
               "RelativeToolTip": "Lista.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T18:20:21.614Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
