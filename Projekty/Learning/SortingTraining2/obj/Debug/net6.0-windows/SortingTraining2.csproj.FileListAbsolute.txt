@@ -1,0 +1,17 @@
+E:\AiSD_175384\Projekty\SortingTraining2\bin\Debug\net6.0-windows\SortingTraining2.exe
+E:\AiSD_175384\Projekty\SortingTraining2\bin\Debug\net6.0-windows\SortingTraining2.deps.json
+E:\AiSD_175384\Projekty\SortingTraining2\bin\Debug\net6.0-windows\SortingTraining2.runtimeconfig.json
+E:\AiSD_175384\Projekty\SortingTraining2\bin\Debug\net6.0-windows\SortingTraining2.dll
+E:\AiSD_175384\Projekty\SortingTraining2\bin\Debug\net6.0-windows\SortingTraining2.pdb
+E:\AiSD_175384\Projekty\SortingTraining2\obj\Debug\net6.0-windows\SortingTraining2.Form1.resources
+E:\AiSD_175384\Projekty\SortingTraining2\obj\Debug\net6.0-windows\SortingTraining2.csproj.GenerateResource.cache
+E:\AiSD_175384\Projekty\SortingTraining2\obj\Debug\net6.0-windows\SortingTraining2.GeneratedMSBuildEditorConfig.editorconfig
+E:\AiSD_175384\Projekty\SortingTraining2\obj\Debug\net6.0-windows\SortingTraining2.AssemblyInfoInputs.cache
+E:\AiSD_175384\Projekty\SortingTraining2\obj\Debug\net6.0-windows\SortingTraining2.AssemblyInfo.cs
+E:\AiSD_175384\Projekty\SortingTraining2\obj\Debug\net6.0-windows\SortingTraining2.csproj.CoreCompileInputs.cache
+E:\AiSD_175384\Projekty\SortingTraining2\obj\Debug\net6.0-windows\SortingTraining2.sourcelink.json
+E:\AiSD_175384\Projekty\SortingTraining2\obj\Debug\net6.0-windows\SortingTraining2.dll
+E:\AiSD_175384\Projekty\SortingTraining2\obj\Debug\net6.0-windows\refint\SortingTraining2.dll
+E:\AiSD_175384\Projekty\SortingTraining2\obj\Debug\net6.0-windows\SortingTraining2.pdb
+E:\AiSD_175384\Projekty\SortingTraining2\obj\Debug\net6.0-windows\SortingTraining2.genruntimeconfig.cache
+E:\AiSD_175384\Projekty\SortingTraining2\obj\Debug\net6.0-windows\ref\SortingTraining2.dll
