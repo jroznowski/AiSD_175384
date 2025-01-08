@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\po\\AiSD_175384\\Projekty\\Grafy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|d:\\po\\aisd_175384\\projekty\\grafy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|d:\\po\\aisd_175384\\projekty\\grafy\\grafy.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:grafy.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|d:\\po\\aisd_175384\\projekty\\grafy\\huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grafy",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\Grafy\\Grafy.csproj",
+              "RelativeDocumentMoniker": "Grafy.csproj",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\Grafy\\Grafy.csproj",
+              "RelativeToolTip": "Grafy.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T07:53:21.795Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Huffman.cs",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\Grafy\\Huffman.cs",
+              "RelativeDocumentMoniker": "Huffman.cs",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\Grafy\\Huffman.cs",
+              "RelativeToolTip": "Huffman.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowEkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:49:57.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\Grafy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\Grafy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:33:08.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
