@@ -1,0 +1,15 @@
+D:\po\AiSD_175384\Projekty\BST\bin\Debug\net6.0\BST.exe
+D:\po\AiSD_175384\Projekty\BST\bin\Debug\net6.0\BST.deps.json
+D:\po\AiSD_175384\Projekty\BST\bin\Debug\net6.0\BST.runtimeconfig.json
+D:\po\AiSD_175384\Projekty\BST\bin\Debug\net6.0\BST.dll
+D:\po\AiSD_175384\Projekty\BST\bin\Debug\net6.0\BST.pdb
+D:\po\AiSD_175384\Projekty\BST\obj\Debug\net6.0\BST.GeneratedMSBuildEditorConfig.editorconfig
+D:\po\AiSD_175384\Projekty\BST\obj\Debug\net6.0\BST.AssemblyInfoInputs.cache
+D:\po\AiSD_175384\Projekty\BST\obj\Debug\net6.0\BST.AssemblyInfo.cs
+D:\po\AiSD_175384\Projekty\BST\obj\Debug\net6.0\BST.csproj.CoreCompileInputs.cache
+D:\po\AiSD_175384\Projekty\BST\obj\Debug\net6.0\BST.sourcelink.json
+D:\po\AiSD_175384\Projekty\BST\obj\Debug\net6.0\BST.dll
+D:\po\AiSD_175384\Projekty\BST\obj\Debug\net6.0\refint\BST.dll
+D:\po\AiSD_175384\Projekty\BST\obj\Debug\net6.0\BST.pdb
+D:\po\AiSD_175384\Projekty\BST\obj\Debug\net6.0\BST.genruntimeconfig.cache
+D:\po\AiSD_175384\Projekty\BST\obj\Debug\net6.0\ref\BST.dll
