@@ -1,79 +1,77 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Grafy
 {
-    public class MinHeapNode
+    public class WezelKopca
     {
-        public char data;
-        public uint freq;
-        public MinHeapNode left, right;
+        public char znak;
+        public uint czestosc;
+        public WezelKopca lewe, prawe;
 
-        public MinHeapNode(char data, uint freq)
+        public WezelKopca(char znak, uint czestosc)
         {
-            left = right = null;
-            this.data = data;
-            this.freq = freq;
+            lewe = prawe = null;
+            this.znak = znak;
+            this.czestosc = czestosc;
         }
     }
 
-    public class CompareMinHeapNode : IComparer<MinHeapNode>
+    public class PorownajWezelKopca : IComparer<WezelKopca>
     {
-        public int Compare(MinHeapNode x, MinHeapNode y)
+        public int Compare(WezelKopca x, WezelKopca y)
         {
-            return x.freq.CompareTo(y.freq);
+            return x.czestosc.CompareTo(y.czestosc);
         }
     }
 
     public class Program
     {
-        static void printCodes(MinHeapNode root, string str)
+        static void DrukujKody(WezelKopca korzen, string kod)
         {
-            if (root == null)
+            if (korzen == null)
                 return;
 
-            if (root.data != '$')
-                Console.WriteLine(root.data + ": " + str);
+            if (korzen.znak != '$')
+                Console.WriteLine(korzen.znak + ": " + kod);
 
-            printCodes(root.left, str + "0");
-            printCodes(root.right, str + "1");
+            DrukujKody(korzen.lewe, kod + "0");
+            DrukujKody(korzen.prawe, kod + "1");
         }
 
-        static void HuffmanCodes(char[] data, uint[] freq, int size)
+        static void KodyHuffmana(char[] znaki, uint[] czestosci, int rozmiar)
         {
-            MinHeapNode left, right, top;
-            var minHeap = new SortedSet<MinHeapNode>(new CompareMinHeapNode());
+            WezelKopca lewe, prawe, szczyt;
+            var kopiec = new SortedSet<WezelKopca>(new PorownajWezelKopca());
 
-            for (int i = 0; i < size; ++i)
-                minHeap.Add(new MinHeapNode(data[i], freq[i]));
+            for (int i = 0; i < rozmiar; ++i)
+                kopiec.Add(new WezelKopca(znaki[i], czestosci[i]));
 
-            while (minHeap.Count != 1)
+            while (kopiec.Count != 1)
             {
-                left = minHeap.Min;
-                minHeap.Remove(left);
+                lewe = kopiec.Min;
+                kopiec.Remove(lewe);
 
-                right = minHeap.Min;
-                minHeap.Remove(right);
+                prawe = kopiec.Min;
+                kopiec.Remove(prawe);
 
-                top = new MinHeapNode('$', left.freq + right.freq);
-                top.left = left;
-                top.right = right;
+                szczyt = new WezelKopca('$', lewe.czestosc + prawe.czestosc);
+                szczyt.lewe = lewe;
+                szczyt.prawe = prawe;
 
-                minHeap.Add(top);
+                kopiec.Add(szczyt);
             }
 
-            printCodes(minHeap.Min, "");
+            DrukujKody(kopiec.Min, "");
         }
 
         static void Main()
         {
-            char[] arr = { 'A','B','C','D'};
-            uint[] freq = { 1,2,3,4 };
-            int size = arr.Length;
-            HuffmanCodes(arr, freq, size);
+            char[] znaki = { 'A', 'B', 'C', 'D' };
+            uint[] czestosci = { 1, 2, 3, 4 };
+            int rozmiar = znaki.Length;
+            KodyHuffmana(znaki, czestosci, rozmiar);
         }
     }
 }

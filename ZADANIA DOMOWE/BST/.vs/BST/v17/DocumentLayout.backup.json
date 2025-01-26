@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\po\\AiSD_175384\\Projekty\\BST\\",
+  "WorkspaceRootPath": "E:\\AiSD_175384\\ZADANIA DOMOWE\\BST\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{563D67BA-E401-4077-AC02-476177DFA660}|BST.csproj|d:\\po\\aisd_175384\\projekty\\bst\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{563D67BA-E401-4077-AC02-476177DFA660}|BST.csproj|e:\\aisd_175384\\zadania domowe\\bst\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563D67BA-E401-4077-AC02-476177DFA660}|BST.csproj|solutionrelative:lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563D67BA-E401-4077-AC02-476177DFA660}|BST.csproj|e:\\aisd_175384\\zadania domowe\\bst\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563D67BA-E401-4077-AC02-476177DFA660}|BST.csproj|solutionrelative:node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563D67BA-E401-4077-AC02-476177DFA660}|BST.csproj|e:\\aisd_175384\\zadania domowe\\bst\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{563D67BA-E401-4077-AC02-476177DFA660}|BST.csproj|solutionrelative:tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{563D67BA-E401-4077-AC02-476177DFA660}|BST.csproj|d:\\po\\aisd_175384\\projekty\\bst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{563D67BA-E401-4077-AC02-476177DFA660}|BST.csproj|e:\\aisd_175384\\zadania domowe\\bst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{563D67BA-E401-4077-AC02-476177DFA660}|BST.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,15 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\BST\\Node.cs",
+              "RelativeDocumentMoniker": "Node.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\BST\\Node.cs",
+              "RelativeToolTip": "Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:55:21.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\BST\\Lista.cs",
+              "RelativeDocumentMoniker": "Lista.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\BST\\Lista.cs",
+              "RelativeToolTip": "Lista.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAmwFQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:54:48.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Tree.cs",
-              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\BST\\Tree.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\BST\\Tree.cs",
               "RelativeDocumentMoniker": "Tree.cs",
-              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\BST\\Tree.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\BST\\Tree.cs",
               "RelativeToolTip": "Tree.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,16 +69,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\po\\AiSD_175384\\Projekty\\BST\\Program.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\BST\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\po\\AiSD_175384\\Projekty\\BST\\Program.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\BST\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T13:14:20.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T13:14:20.771Z"
             }
           ]
         }

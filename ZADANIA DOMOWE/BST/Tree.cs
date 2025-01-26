@@ -13,7 +13,7 @@ namespace BST
 
         public void AddNode(NodeT node)
         {
-            if(this.root == null)
+            if (this.root == null)
             {
                 this.root = node;
             }
@@ -60,7 +60,7 @@ namespace BST
             {
                 return node;
             }
-            if(key > node.data)
+            if (key > node.data)
             {
                 node.prawe = RemoveNode(node.prawe, key);
             }
@@ -70,17 +70,17 @@ namespace BST
             }
             else
             {
-                if(node.lewe == null)
+                if (node.lewe == null)
                 {
                     return node.prawe;
                 }
-                else if(node.prawe == null)
+                else if (node.prawe == null)
                 {
                     return node.lewe;
                 }
 
                 NodeT temp = node.prawe;
-                while(temp.lewe != null)
+                while (temp.lewe != null)
                 {
                     temp = temp.lewe;
                 }
@@ -94,12 +94,12 @@ namespace BST
 
         public void inOrder(NodeT root)
         {
-            if(root.lewe != null)
+            if (root.lewe != null)
             {
                 inOrder(root.lewe);
             }
             Console.WriteLine(root.data);
-            if(root.prawe != null)
+            if (root.prawe != null)
             {
                 inOrder(root.prawe);
             }
@@ -112,11 +112,24 @@ namespace BST
             {
                 preOrder(root.lewe);
             }
-            
+
             if (root.prawe != null)
             {
                 preOrder(root.prawe);
             }
+        }
+
+        public void postOrder(NodeT root)
+        {
+            if (root.lewe != null)
+            {
+                postOrder(root.lewe);
+            }
+            if (root.prawe != null)
+            {
+                postOrder(root.prawe);
+            }
+            Console.WriteLine(root.data);
         }
     }
 }
