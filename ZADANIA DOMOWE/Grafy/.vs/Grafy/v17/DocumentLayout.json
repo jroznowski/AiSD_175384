@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|e:\\aisd_175384\\zadania domowe\\grafy\\graf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:graf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|e:\\aisd_175384\\zadania domowe\\grafy\\nodeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:nodeg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|e:\\aisd_175384\\zadania domowe\\grafy\\nwp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:nwp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|e:\\aisd_175384\\zadania domowe\\grafy\\grafy.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:grafy.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|e:\\aisd_175384\\zadania domowe\\grafy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|e:\\aisd_175384\\zadania domowe\\grafy\\djikstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:djikstra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|e:\\aisd_175384\\zadania domowe\\grafy\\graf1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:graf1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|e:\\aisd_175384\\zadania domowe\\grafy\\kruskal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:kruskal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|e:\\aisd_175384\\zadania domowe\\grafy\\edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:edge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|e:\\aisd_175384\\zadania domowe\\grafy\\nodeg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:nodeg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|e:\\aisd_175384\\zadania domowe\\grafy\\huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE06E121-F31F-4FF9-B150-6CB2D42E32B7}|Grafy.csproj|solutionrelative:huffman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Grafy",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Grafy.csproj",
+              "RelativeDocumentMoniker": "Grafy.csproj",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Grafy.csproj",
+              "RelativeToolTip": "Grafy.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T07:53:21.795Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graf.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Graf.cs",
+              "RelativeDocumentMoniker": "Graf.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Graf.cs",
+              "RelativeToolTip": "Graf.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAcwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:59:17.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NodeG.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\NodeG.cs",
+              "RelativeDocumentMoniker": "NodeG.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\NodeG.cs",
+              "RelativeToolTip": "NodeG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:58:02.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NWP.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\NWP.cs",
+              "RelativeDocumentMoniker": "NWP.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\NWP.cs",
+              "RelativeToolTip": "NWP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:53:04.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Djikstra.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Djikstra.cs",
+              "RelativeDocumentMoniker": "Djikstra.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Djikstra.cs",
+              "RelativeToolTip": "Djikstra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:52:21.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Graf1.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Graf1.cs",
+              "RelativeDocumentMoniker": "Graf1.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Graf1.cs",
+              "RelativeToolTip": "Graf1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:45:58.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NodeG1.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\NodeG1.cs",
+              "RelativeDocumentMoniker": "NodeG1.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\NodeG1.cs",
+              "RelativeToolTip": "NodeG1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:45:15.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edge.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Edge.cs",
+              "RelativeDocumentMoniker": "Edge.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Edge.cs",
+              "RelativeToolTip": "Edge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:44:55.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kruskal.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Kruskal.cs",
+              "RelativeDocumentMoniker": "Kruskal.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Kruskal.cs",
+              "RelativeToolTip": "Kruskal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T22:44:33.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Huffman.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Huffman.cs",
+              "RelativeDocumentMoniker": "Huffman.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Huffman.cs",
+              "RelativeToolTip": "Huffman.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAowEkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:49:57.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\AiSD_175384\\ZADANIA DOMOWE\\Grafy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:33:08.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

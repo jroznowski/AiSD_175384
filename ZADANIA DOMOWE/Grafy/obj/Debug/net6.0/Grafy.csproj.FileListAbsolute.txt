@@ -1,0 +1,15 @@
+D:\po\AiSD_175384\Projekty\Grafy\bin\Debug\net6.0\Grafy.exe
+D:\po\AiSD_175384\Projekty\Grafy\bin\Debug\net6.0\Grafy.deps.json
+D:\po\AiSD_175384\Projekty\Grafy\bin\Debug\net6.0\Grafy.runtimeconfig.json
+D:\po\AiSD_175384\Projekty\Grafy\bin\Debug\net6.0\Grafy.dll
+D:\po\AiSD_175384\Projekty\Grafy\bin\Debug\net6.0\Grafy.pdb
+D:\po\AiSD_175384\Projekty\Grafy\obj\Debug\net6.0\Grafy.GeneratedMSBuildEditorConfig.editorconfig
+D:\po\AiSD_175384\Projekty\Grafy\obj\Debug\net6.0\Grafy.AssemblyInfoInputs.cache
+D:\po\AiSD_175384\Projekty\Grafy\obj\Debug\net6.0\Grafy.AssemblyInfo.cs
+D:\po\AiSD_175384\Projekty\Grafy\obj\Debug\net6.0\Grafy.csproj.CoreCompileInputs.cache
+D:\po\AiSD_175384\Projekty\Grafy\obj\Debug\net6.0\Grafy.sourcelink.json
+D:\po\AiSD_175384\Projekty\Grafy\obj\Debug\net6.0\Grafy.dll
+D:\po\AiSD_175384\Projekty\Grafy\obj\Debug\net6.0\refint\Grafy.dll
+D:\po\AiSD_175384\Projekty\Grafy\obj\Debug\net6.0\Grafy.pdb
+D:\po\AiSD_175384\Projekty\Grafy\obj\Debug\net6.0\Grafy.genruntimeconfig.cache
+D:\po\AiSD_175384\Projekty\Grafy\obj\Debug\net6.0\ref\Grafy.dll
